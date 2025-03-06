@@ -25,7 +25,7 @@ Contains phylogenetic tree files for biological galaxies.
 **Environment:** MATLAB
 
 **Input Data Structure:**
-1. **Metadata File**  
+1. **Sequence Information**  
    - Create an Excel file (e.g., `Accession.xlsx`) following this format:
      ```excel
      | Accession  | Family     |
